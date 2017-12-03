@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/hmm.dir/main.cpp.o CMakeFiles/hmm.dir/model.cc.o CMakeFiles/hmm.dir/vector.cc.o CMakeFiles/hmm.dir/matrix.cc.o  -o hmm 
